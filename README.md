@@ -7,9 +7,9 @@ Link to the dataset: https://www.kaggle.com/datasets/joebeachcapital/life-expect
 While exploring this dataset, several notable patterns and trends emerged
 <br>
 1. Income Group and Life Expectancy
-  - There exists a correlation between income groups and life expectency
-  - Individuals in higher income groups exhibit a higher life expectancy compared to those in lower income groups
-  - The highest life expectancy is observed in the high-income group, while the lowest is found in the low-income group
+    - There exists a correlation between income groups and life expectency
+    - Individuals in higher income groups exhibit a higher life expectancy compared to those in lower income groups
+    - The highest life expectancy is observed in the high-income group, while the lowest is found in the low-income group
 
 2. Gender Disparities
   - Females consistenly outlive males by an average of 4-5 years each year from 2000 to 2019
